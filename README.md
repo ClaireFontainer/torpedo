@@ -1,2 +1,2 @@
 # torpedo
-data science for coursera ibm
+data science demo
